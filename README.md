@@ -1,4 +1,4 @@
-# nameless
+# Simple quiz app that use open trivia db (https://opentdb.com/)
 
 ## Project setup
 ```
