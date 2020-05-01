@@ -1,4 +1,4 @@
-# Simple quiz app that use open trivia db (https://opentdb.com/)
+# Simple quiz app that use [Open Trivia DB](https://opentdb.com/)
 
 ## Project setup
 ```
